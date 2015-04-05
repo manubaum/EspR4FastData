@@ -4,3 +4,4 @@ It is possible to run it:
 -	From Eclipse, as a usual dynamic web project, using Eclipse server integration
 - From the command line using the jetty maven plugin
 - From the command line using the tomcat maven plugin
+- From the command line using the jboss maven plugin (mvn package jboss-as:deploy)
